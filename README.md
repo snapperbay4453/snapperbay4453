@@ -1,4 +1,5 @@
 # Nice to meet you! 👋
+
 I'm Kyeonghwan Son, a web frontend developer.
 By fully demonstrating my capabilities, I would like to provide a free and convenient service experience for all users and develop it.
 
@@ -6,11 +7,7 @@ By fully demonstrating my capabilities, I would like to provide a free and conve
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=snapperbay4453&count_private=true&show_icons=true&include_all_commits=true)
 
-<br/>
-
 ## 🔧 Technologies
----
-<br/>
 
 ![Languages](https://img.shields.io/badge/-Languages-black?style=flat-square&logo=Plex&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -45,11 +42,7 @@ By fully demonstrating my capabilities, I would like to provide a free and conve
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-<br/>
-
 ## ✉️ Links
----
-<br/>
 
 [![Gmail Badge](https://img.shields.io/badge/-snapperbay4453@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snapperbay4453@gmail.com)](mailto:snapperbay4453@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Kyeonghwan_Son-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/snapperbay4453/)](https://www.linkedin.com/in/snapperbay4453/)
